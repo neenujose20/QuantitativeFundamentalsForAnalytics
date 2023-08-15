@@ -8,3 +8,4 @@ I have conducted analysis which addresses the following issues and recommends an
 2. Compute the probability of a stockout for the order quantities suggested by members of the management team. 
 3. Compute the projected profit for the order quantities suggested by the management team under three scenarios: worst case in which sales=10,000 units, most likely case in which sales=20,000 units, and best case in which sales=30,000 units. 
 4. One of Specialty’s managers felt that the profit potential was so great that the order quantity should have a 70% chance of meeting demand and only a 30% chance of any stockouts. What quantity would be ordered under this policy, and what is the projected profit under the three sales scenarios? 
+5. Provide your own recommendation for an order quantity and note the associated profit projections. Provide a rationale for your recommendation.
